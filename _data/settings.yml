@@ -2,7 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
 - {name: 'About me',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
